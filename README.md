@@ -67,7 +67,7 @@ Confusion Matrix & ROC-AUC Curves
 
 ---
 
-## 📚 References & Resources
+##  References & Resources
 
 ### Dataset & Supervisor
 * **Dataset:** CSIC Spam Email Dataset via Kaggle — [jackksoncsie/spam-email-dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
